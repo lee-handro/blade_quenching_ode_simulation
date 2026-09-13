@@ -77,7 +77,7 @@ Using initial parameters ($T_{init} = 1000^\circ\text{C}$, $T_{env} = 20^\circ\t
 
 ## Phase 2: The Non-Linear Quenching Model (Convection + Radiation)
 
-While the linear model works at lower temperatures, cooling a sword from **1000°C** requires accounting for **Thermal Radiation**. At this temperature, the steel glows red-hot and dumps a massive amount of heat through electromagnetic radiation, governed by the **Stefan-Boltzmann Law**.
+While the linear model works at lower temperatures, cooling a blade from **1000°C** requires accounting for **Thermal Radiation**. At this temperature, the steel glows red-hot and dumps a massive amount of heat through electromagnetic radiation, governed by the **Stefan-Boltzmann Law**.
 
 ### The Governing Differential Equation
 The rate of heat loss is the sum of **Convection** (heat carried away by fluid) and **Radiation** (heat radiated away by glowing light):
