@@ -1,6 +1,6 @@
 # Transient Thermal Quenching Simulation of a High-Carbon Steel Component: Air vs. Oil vs. Water
 
-A computational physics and heat transfer project modeling the transient cooling rates of a heated (1000°C) high-carbon steel component/blade geometry using Ordinary Differential Equations **(ODEs).**. 
+A computational physics and heat transfer project modeling the transient cooling rates of a heated (1000°C) high-carbon steel component/blade geometry using Ordinary Differential Equations **(ODEs).**
 
 This project explores both:
 1. **The Analytical Model:** Solving Newton's Law of Cooling by hand using an Integrating Factor.
