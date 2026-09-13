@@ -64,7 +64,7 @@ $$ T(t) = T_{env} + (T_{init} - T_{env})e^{-kt} $$
 
 ### Handwritten Derivation Notes
 
-![Handwritten Derivation](math.jpg)
+![Handwritten Derivation](math.png)
 
 ---
 
