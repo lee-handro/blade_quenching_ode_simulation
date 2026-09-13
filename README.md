@@ -1,6 +1,6 @@
 # Thermodynamic Sword Quenching Simulation: Air vs. Oil vs. Water
 
-A computational physics and heat transfer project modeling the cooling rates of a 1000°C steel sword using **Ordinary Differential Equations (ODEs)**. 
+A computational physics and heat transfer project modeling the transient cooling rates of a heated (1000°C) high-carbon steel component/blade geometry using Ordinary Differential Equations **(ODEs).**. 
 
 This project explores both:
 1. **The Analytical Model:** Solving Newton's Law of Cooling by hand using an Integrating Factor.
@@ -23,7 +23,7 @@ Where:
 
 ### Step-by-Step Derivation (Integrating Factor Method)
 
-Rearranging into standard 1st-order linear ODE form ($\frac{dy}{dt} + P(t)y = Q(t)$):
+Rearranging into standard 1st-order linear ODE form
 
 $$ \frac{dT}{dt} + kT = kT_{env} $$
 
