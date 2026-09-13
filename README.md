@@ -1,4 +1,4 @@
-# Thermodynamic Sword Quenching Simulation: Air vs. Oil vs. Water
+# Transient Thermal Quenching Simulation of a High-Carbon Steel Component: Air vs. Oil vs. Water
 
 A computational physics and heat transfer project modeling the transient cooling rates of a heated (1000°C) high-carbon steel component/blade geometry using Ordinary Differential Equations **(ODEs).**. 
 
@@ -122,7 +122,7 @@ Because the $T^4$ term makes this ODE non-linear, finding a closed-form analytic
 
 ## Engineering & Metallurgy Insights
 
-The resulting simulation demonstrates why bladesmiths choose specific mediums:
+The resulting simulation demonstrates the critical heat extraction tradeoffs observed in metallurgy, tool manufacturing, and bladesmithing:
 
 1. **Water Quench (Yellow Line):**
    * Drops from 1000°C to room temperature in **less than 15 seconds**. 
